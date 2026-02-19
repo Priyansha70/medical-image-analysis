@@ -1,0 +1,38 @@
+{
+  "val_best": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0,
+    "confusion_matrix": [
+      [
+        8,
+        0
+      ],
+      [
+        0,
+        8
+      ]
+    ],
+    "threshold": 0.5
+  },
+  "test": {
+    "accuracy": 0.9118589743589743,
+    "precision": 0.8868360277136259,
+    "recall": 0.9846153846153847,
+    "f1": 0.9331713244228432,
+    "roc_auc": 0.9730111768573307,
+    "confusion_matrix": [
+      [
+        185,
+        49
+      ],
+      [
+        6,
+        384
+      ]
+    ],
+    "threshold": 0.5
+  }
+}
